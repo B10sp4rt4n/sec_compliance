@@ -1,3 +1,6 @@
+"Este repositorio es de uso exclusivo para revisión, no está autorizado su uso sin permiso explícito del autor."
+
+
 # sec_compliance
 Herramienta para calificar (scoring) funciones de ciberseguridad activas que convierte un set de características de ciberseguridad en un mapa visual de cumplimiento cuantificable.
 
