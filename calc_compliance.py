@@ -340,7 +340,7 @@ with st.expander("📚 Glosario de Normativas de Cumplimiento"):
             "descripcion": "Marco de auditoría para servicios que almacenan datos del cliente en la nube. Evalúa controles sobre seguridad, disponibilidad, integridad, confidencialidad y privacidad.",
             "link": "https://secureframe.com/hub/soc-2/what-is-soc-2"
         },
-        "Ley 1581 de 2012": {
+        "LFPDPPP": {
             "descripcion": "Gestor Normativo Función Pública: norma completa, con principios, ámbito de aplicación y sanciones.",
             "link": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981"
         }
