@@ -342,7 +342,7 @@ with st.expander("📚 Glosario de Normativas de Cumplimiento"):
         },
         "LFPDPPP": {
             "descripcion": "Gestor Normativo Función Pública: norma completa, con principios, ámbito de aplicación y sanciones.",
-            "link": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981"
+            "link": "chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf"
         }
     }
 
